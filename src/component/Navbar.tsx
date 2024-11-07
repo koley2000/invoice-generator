@@ -14,7 +14,7 @@ function Navbar() {
 
         <div className="flex flex-1 items-center justify-between">
           <div aria-label="Global" className="md:block">
-            <ul className="flex items-centerpt-0 bg-gray-800 z-[-1] md:z-auto md:static w-full left-0 py-0 md:pl-0 pl-0">
+            <ul className="flex items-center pt-0 bg-gray-800 z-[-1] md:z-auto md:static w-full left-0 py-0 md:pl-0 pl-0">
 
               <li className='md:mx-0 md:my-0'>
                 <a href='/' className="text-white text-xl italic">Invoice Generator</a>
